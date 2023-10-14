@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 3px black;
+    font-size: 50px;
+    letter-spacing: 15px;
+    word-spacing: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+p {
+    text-indent: 50px;
+    color: blue;
+    line-height: 30px;
+}

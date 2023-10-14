@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.niceborder{
+    width: 1000px;
+    height: 300px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: silver;
+    font-size: x-large;
+    color:silver;
+    border-radius: 20px;
+    background-color: black;
+    text-align: center;
+    outline: solid 20px white;
+    margin: 80px;
+    outline-offset: 20px;
+    display: inline-block;
+    margin-top: 500px;
+    padding-top: 50px;
+    }
